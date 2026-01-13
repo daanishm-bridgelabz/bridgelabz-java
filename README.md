@@ -1,1 +1,1 @@
-# bidgelabz-java
+# bridgelabz-java
